@@ -105,7 +105,7 @@ const countries = [
   { name: "Komory", file: "komoros.png" , continent: "africa" },
   { name: "Demokratyczna Republika Konga", file: "drk.png" , continent: "africa" },
   { name: "Dżibuti", file: "djibuti.png" , continent: "africa" },
-  { name: "Egipt", file: "Egypt.png" , continent: "africa" },
+  { name: "Egipt", file: "egypt.png" , continent: "africa" },
   { name: "Gwinea Równikowa", file: "equatorialguinea.png" , continent: "africa" },
   { name: "Erytrea", file: "eritrea.png" , continent: "africa" },
   { name: "Etiopia", file: "etiopia.png" , continent: "africa" },
